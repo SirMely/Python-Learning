@@ -28,11 +28,7 @@ Print the dictionary.
 '''
 
 # List
-foods = ["Mandarin Orange Chicken", "Orange", "Apples", "Oatmeal", "Water"]
 
-foods.append("Mushrooms")
-foods.remove("Water")
-print(foods)
 # Tuples
 
 # Sets
